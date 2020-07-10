@@ -1,3 +1,5 @@
+<a href="/"><img class="logo" src="https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png" alt="React Native"> </a>
+
 # React-Native
 React Native Environment Setup 
 
