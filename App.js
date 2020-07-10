@@ -31,13 +31,13 @@ const App: () => React$Node = () => {
       <StatusBar barStyle="dark-content" />
       <SafeAreaView>
       <View style={styles.container}>
-        <Text style={styles.header}>Periyava Puranam</Text> 
+        <Text style={styles.header}>Helloworld</Text> 
       </View>
       <View style={styles.slider}>
       <Image
         style={styles.tinyLogo}
         source={{
-          uri: 'https://mahaperiyava.org/beta/wp-content/uploads/2019/09/Mainslide-1280x720.jpg',
+          uri: 'https://reactnative.dev/img/header_logo.svg',
         }}
       />
       </View>
